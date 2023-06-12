@@ -1,6 +1,6 @@
 # Tubes_SA
 
-<h3>Membandingkan Algoritma Brute Force dengan Algoritma Greedy</h3>
+<h3>Membandingkan Algoritma Brute Force dengan Algoritma Greedy<br> pada Minimum Vertex Cover Problem</h3>
 
 Gambar graph yang ditest
 
